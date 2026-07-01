@@ -36,6 +36,4 @@ An interactive Excel dashboard built to analyze sales performance and identify b
 ## Author
 Chhaya Dewangan
 
-LinkedIn: Your Link
-
-GitHub: Your Link
+GitHub: https://github.com/chhaya002
